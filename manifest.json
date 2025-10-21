@@ -1,0 +1,11 @@
+{
+    "package": "anki_gemini_live",
+    "name": "Anki Gemini Live",
+    "author": "MoPaMo",
+    "version": "0.1.0",
+    "homepage": "https://github.com/MoPaMo/anki-gemini-live",
+    "conflicts": [],
+    "min_point_version": 45,
+    "max_point_version": 0,
+    "ankiweb_id": null
+}
