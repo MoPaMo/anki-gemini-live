@@ -1,0 +1,7 @@
+{
+    "gemini_api_key": "",
+    "voice_language": "en-US",
+    "auto_rate_threshold": 0.8,
+    "voice_detection_sensitivity": 0.5,
+    "explanation_enabled": true
+}
